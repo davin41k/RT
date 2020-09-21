@@ -6,8 +6,8 @@ Project has been tested on Mac OS.
 
 #### Screen shots:
 
-![RT_Screen1](https://github.com/davin41k/ImageStock/blob/master/images/RT_1.png)
-![RT_Screen2](https://github.com/davin41k/ImageStock/blob/master/images/RT_2.png)
-![RT_Screen2](https://github.com/davin41k/ImageStock/blob/master/images/RT_3.png)
-![RT_Screen2](https://github.com/davin41k/ImageStock/blob/master/images/RT_4.png)
+![RT_Screen1](https://github.com/davin41k/RT/blob/master/screenshots/RT_1.png)
+![RT_Screen2](https://github.com/davin41k/RT/blob/master/screenshots/RT_2.png)
+![RT_Screen2](https://github.com/davin41k/RT/blob/master/screenshots/RT_3.png)
+![RT_Screen2](https://github.com/davin41k/RT/blob/master/screenshots/RT_4.png)
 
